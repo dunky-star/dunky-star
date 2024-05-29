@@ -1,6 +1,6 @@
-## Hello Everyone 👋. I am Geoffrey "Opiyo" Duncan, a Java Software developer.
+## Hello Everyone 👋. I am Geoffrey "Opiyo" Duncan, a Software developer.
 
-<!--
+
 I have been in the Software industry for 6+ years. Transforming FinTech & Telecom with Scalable Backend Solutions | Software Engineer Expert in Java, Cloud Integration & CI/CD Optimization leveraging ✨ _Java_ ✨ and ✨ _Golang_ ✨.
 
 - 🔭 I’m currently working on Serverless to deploy Go APIs
@@ -11,4 +11,4 @@ I have been in the Software industry for 6+ years. Transforming FinTech & Teleco
 - 📫 How to reach me: Check the Connect with me section.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Performance cars
--->
+
