@@ -39,6 +39,19 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 <br />
 <br />
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue 
+2. 🎉 Merged PR 
+3. 🎉 Merged PR 
+4. 🎉 Merged PR 
+<!--END_SECTION:activity-->
+</details>
+
+<br />
+
 <img align="left" alt="Geoffrey Duncan's Github Stats" src="https://github-readme-stats.dunky-star.vercel.app/api?username=dunky-star&show_icons=true&hide_border=true" />
 
 <br />
