@@ -16,7 +16,20 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 ➡️ Updating...
 
 ### Connect with me:
-[![Website](https://img.shields.io/badge/Website-YourWebsite-blue)]https://dunky-star.github.io/
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue)]https://x.com/dunky2012
-[<img align="left" alt="opiyog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/geoffrey-duncan-opiyo/
+[<img align="left" alt="dunky-star.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="geoffreyduncan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="geoffreyduncanopiyo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+<br />
+
+<img align="left" alt="Geoffrey Duncan's Github Stats" src="https://github-readme-stats.dunky-star.vercel.app/api?username=dunky-star&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+  
+[website]: https://dunky-star.github.io/
+[twitter]: https://x.com/dunky2012
+[linkedin]: www.linkedin.com/in/geoffrey-duncan-opiyo
 
