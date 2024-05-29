@@ -42,7 +42,6 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="AI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" />][website]
 [<img align="left" alt="LLM" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/large-language-models/large-language-models.png" />][website]
 
