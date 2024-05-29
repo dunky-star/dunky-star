@@ -52,7 +52,7 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 
 <br />
 
-<img align="left" alt="Geoffrey Duncan's Github Stats" src="https://github-readme-stats.dunky-star.vercel.app/api?username=dunky-star&show_icons=true&hide_border=true" />
+<img align="left" alt="Geoffrey Duncan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dunky-star&show_icons=true&hide_border=true" />
 
 <br />
 <br />
