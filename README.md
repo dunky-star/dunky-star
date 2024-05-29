@@ -45,6 +45,7 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 
 <br />
 <br />
+<br />
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
