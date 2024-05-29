@@ -12,3 +12,6 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Performance cars
 
+### 📕Latest Blog Posts
+➡️ Updating...
+
