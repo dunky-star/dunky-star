@@ -18,5 +18,5 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 ### Connect with me:
 [![Website](https://img.shields.io/badge/Website-YourWebsite-blue)]https://dunky-star.github.io/
 [![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue)]https://x.com/dunky2012
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInHandle-blue)]https://www.linkedin.com/in/geoffrey-duncan-opiyo/
+[<img align="left" alt="opiyog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/geoffrey-duncan-opiyo/
 
