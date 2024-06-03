@@ -5,7 +5,7 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 
 - 🔭 I’m currently working on Serverless to deploy Java APIs
 - 🌱 I’m currently learning & expertising in System Design.
-- 👯 I’m looking to collaborate on Java and Golang Projects.
+- 👯 I’m looking to collaborate on challenging Java and Golang Projects.
 - 🤔 I’m seeking help for US work experience - Corporate culture.
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
