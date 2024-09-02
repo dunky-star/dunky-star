@@ -1,4 +1,4 @@
-## Hello Everyone 👋. I am Geoffrey "Opiyo" Duncan, a Software developer.
+## Sup 👋. I'm Geoffrey!,a Programmer, Builder, and Professional Nerd.
 
 
 I am a results-driven Software Engineer with 6+ years in the industry | Transforming FinTech & Telecom with Scalable Backend Solutions | Software Engineer Expert in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
