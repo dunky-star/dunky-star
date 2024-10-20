@@ -3,10 +3,10 @@
 
 I am a results-driven Software Engineer with 7+ years in the industry | Transforming FinTech, e-Commerce & Telecom with Scalable Backend Solutions | Software Engineer Expert in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
 
-- 🔭 I’m currently working on scalable enterprise software systems. 
-- 🌱 I’m currently learning & expertising in System Design.
-- 👯 I’m looking to collaborate on challenging Java, Golang, Cloud, and Spring Boot AI projects.
-- 🤔 I’m currently learning US Corporate culture as a Full-stack Developer in one of the Fortune 500 World's Most Admired Companies.
+- 🔭 I’m currently working on Event-Driven systems. 
+- 🌱 I’m currently learning & expertising in Enterprise System.
+- 👯 I’m collaborating on challenging Java, Golang, Cloud, and Spring Boot projects.
+- 🤔 I’m a Full-stack Developer in one of the USA Fortune 500 World's Most Admired Companies.
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
 - 😄 Pronouns: He/Him
