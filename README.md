@@ -1,10 +1,10 @@
 ## Sup 👋. I'm Geoffrey! A Programmer, Builder, and Professional Nerd.
 
 
-I am a results-driven Software Engineer with 7+ years in the industry | Transforming FinTech, e-Commerce & Telecom with Scalable Backend Solutions | Software Engineer Expert in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
+I am a results-driven Software Engineer with 6+ years in the industry | Transforming FinTech, e-Commerce & Telecom with Scalable Backend Solutions | Software Engineer Expert in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
 
 - 🔭 I’m currently working on Event-Driven systems. 
-- 🌱 I’m currently learning & expertising in Reactive programming using Vert.x.
+- 🌱 I’m currently expertising in Reactive programming using Vert.x.
 - 👯 I’m collaborating on challenging Java, Golang, and AI/ML projects.
 - 🤔 I’m a Full-stack Developer in one of the USA Fortune 500 World's Most Admired Companies.
 - 💬 Ask me anything about how to scale from zero to millions of users.
