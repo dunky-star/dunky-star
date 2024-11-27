@@ -5,7 +5,7 @@ I am a results-driven Software Engineer with 7+ years in the industry | Transfor
 
 - 🔭 I’m currently working on Event-Driven systems. 
 - 🌱 I’m currently learning & expertising in Vert.x.
-- 👯 I’m collaborating on challenging Java, Golang, AI/ML, and Spring Boot projects.
+- 👯 I’m collaborating on challenging Java, Golang, and AI/ML projects.
 - 🤔 I’m a Full-stack Developer in one of the USA Fortune 500 World's Most Admired Companies.
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
