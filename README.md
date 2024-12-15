@@ -6,7 +6,7 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 - 🔭 I’m currently working on Event-Driven systems. 
 - 🌱 I’m currently expertising in Reactive programming using Vert.x.
 - 👯 I’m collaborating on challenging Java, Golang, and AI/ML projects.
-- 🤔 I’m a Full-stack Developer in one of the USA Fortune 500 World's Most Admired Companies.
+- 🤔 I’m a Full-stack Developer at American Express (Contract - Insight Global).
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
 - 😄 Pronouns: He/Him
