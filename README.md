@@ -5,7 +5,7 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 
 - 🔭 I’m currently working on Event-Driven systems. 
 - 🌱 I’m currently expertising in Reactive programming using Vert.x.
-- 👯 I’m collaborating on challenging Java, Golang, and AI/ML projects.
+- 👯 I’m collaborating on challenging Java, Golang, and AI/ML projects (Open source contributor at American Express).
 - 🤔 I’m a Full-stack Software Developer at American Express (Contract - Insight Global).
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
