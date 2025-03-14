@@ -4,7 +4,7 @@
 I am a results-driven Software Engineer with 7+ years in the industry | Transforming FinTech, e-Commerce & Telecom with Scalable Backend Solutions | Software Engineer Expert in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
 
 - 🔭 I’m currently working on Event-Driven systems. 
-- 🌱 I’m currently expertising in Reactive programming using Vert.x.
+- 🌱 I’m currently expertising in Reactive programming and Concurrency.
 - 👯 I’m collaborating on challenging Java, Golang, and AI/ML projects (Open source contributor at American Express).
 - 🤔 I’m a Full-stack Software Developer at American Express (Contract - Insight Global).
 - 💬 Ask me anything about how to scale from zero to millions of users.
