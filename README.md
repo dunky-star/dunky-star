@@ -9,8 +9,8 @@ I am a results-driven Software Engineer with 7+ years in the industry | Transfor
 - 🤔 I’m a Full-stack Software Developer at American Express (Contract - Insight Global).
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Performance cars
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: Performance cars & Nature Photography.
 
 ### 📕Latest Blog Posts
 ➡️ Updating...
