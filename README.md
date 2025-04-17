@@ -1,7 +1,7 @@
 ## Sup 👋. I'm Geoffrey! A Programmer, Builder, and Professional Nerd.
 
 
-I am a results-driven Software Engineer with 7+ years in the industry | Transforming FinTech, e-Commerce & Telecom with Scalable Backend Solutions | Software Engineer Expert in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
+I am a results-driven Software Engineer with 6+ years in the industry | Transforming FinTech, e-Commerce & Telecom with Scalable Backend Solutions | Software Engineer Expert in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
 
 - 🔭 I’m currently working on Event-Driven systems. 
 - 🌱 I’m currently expertising in Reactive Programming and Concurrency.
