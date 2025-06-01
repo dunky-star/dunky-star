@@ -6,7 +6,7 @@ I am a results-driven Software Engineer with 6+ years in the industry | Transfor
 - 🔭 I’m currently working on Event-Driven systems. 
 - 🌱 I’m currently expertising in Reactive Programming and Concurrency.
 - 👯 I’m collaborating on challenging Java, Golang, and AI/ML projects (Open source contributor).
-- 🤔 I’m a Software Developer at PayPal.
+- 🤔 I’m a Software Engineer at PayPal.
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
 - 😄 Pronouns: He/Him.
