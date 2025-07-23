@@ -1,12 +1,11 @@
 ## Sup 👋. I'm Geoffrey! A Programmer, Builder, and Professional Nerd.
 
 
-I am a results-driven Software Engineer with 6+ years in the industry | Transforming FinTech, e-Commerce & Telecom with Scalable Backend Solutions | Software Engineer in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
+Transforming FinTech & e-Commerce with Scalable payment platforms | Software Engineer in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
 
-- 🔭 I’m currently working on Event-Driven systems. 
-- 🌱 I’m currently expertising in Reactive Programming and Concurrency.
-- 👯 I’m collaborating on challenging Java, Golang, and AI/ML projects (Open source contributor).
-- 🤔 I’m a Software Engineer at PayPal (USA).
+- 🔭 I’m currently expertising in Agentic AI. 
+- 🌱 I’m finalizing my MSc. in Computer Science.
+- 👯 Optimizing life, one algorithm at a time.
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
 - 😄 Pronouns: He/Him.
