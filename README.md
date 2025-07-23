@@ -1,11 +1,10 @@
-## Sup 👋. I'm Geoffrey! A Programmer, Builder, and Professional Nerd.
+## Sup 👋. I'm Geoffrey! Optimizing life, one algorithm at a time.
 
 
 Transforming FinTech & e-Commerce with Scalable payment platforms | Software Engineer in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
 
 - 🔭 I’m currently expertising in Agentic AI. 
 - 🌱 I’m finalizing my MSc. in Computer Science.
-- 👯 Optimizing life, one algorithm at a time.
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
 - 😄 Pronouns: He/Him.
