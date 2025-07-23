@@ -1,7 +1,7 @@
 ## Sup 👋. I'm Geoffrey! Optimizing life, one algorithm at a time.
 
 
-Transforming FinTech & e-Commerce with scalable payment platforms | Software Engineer in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Cloud Integration & CI/CD Optimization.
+Transforming FinTech & e-Commerce with scalable payment platforms | Software Engineer in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Agentic AI.
 
 - 🔭 I’m currently expertising in Agentic AI. 
 - 🌱 I’m finalizing my MSc. in Computer Science.
