@@ -4,7 +4,7 @@
 Transforming FinTech & e-Commerce with scalable payment platforms | Software Engineer in ✨ _Java_ ✨ & ✨ _Golang_ ✨, Agentic AI.
 
 - 🔭 I’m currently expertising in Agentic AI. 
-- 🌱 I’m finalizing my MSc. in Computer Science.
+- 🌱 I’m finalizing my MSc. in Computer Science & will embark on Ph.D someday for fun.
 - 💬 Ask me anything about how to scale from zero to millions of users.
 - 📫 How to reach me: Check the Connect with me section.
 - 😄 Pronouns: He/Him.
